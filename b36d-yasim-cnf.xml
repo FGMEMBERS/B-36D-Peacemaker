@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+************************************************************************
+Boeing B17
+May 2008 BARANGER Emmanuel
+************************************************************************
+-->
+
+<PropertyList include="b36d-base.xml">
+
+  <sim>
+
+    <description>Consolidated B36 D Peacemaker (YASim)</description>
+    <flight-model>yasim</flight-model>
+    <aero>b36d-yasim</aero>
+
+  </sim>
+  
+</PropertyList>
