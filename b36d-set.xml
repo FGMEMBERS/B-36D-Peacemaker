@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="b36d-jsbsim-cnf.xml"> -->
+<PropertyList include="b36d-yasim-cnf.xml">
+
+  <sim>
+    <description>Consolidated B36 D Peacemaker</description>
+    <author>BARANGER Emmanuel</author>
+  </sim>
+
+</PropertyList>
+
