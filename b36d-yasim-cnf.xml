@@ -15,6 +15,19 @@ May 2008 BARANGER Emmanuel
     <flight-model>yasim</flight-model>
     <aero>b36d-yasim</aero>
 
+    <tags>
+      <tag>bomber</tag>
+      <tag>1950s</tag>
+      <tag>coldwar</tag>
+      <tag>retractable-gear</tag>
+      <tag>propeller</tag>
+      <tag>piston</tag>
+      <tag>radial</tag>
+      <tag>jet</tag>
+      <tag>multi-engine</tag>
+      <tag>fixed-pitch</tag>
+    </tags>
+
   </sim>
   
 </PropertyList>

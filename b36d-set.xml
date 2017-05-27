@@ -6,7 +6,22 @@
   <sim>
     <description>Consolidated B36 D Peacemaker</description>
     <author>BARANGER Emmanuel</author>
+
+    <tags>
+      <tag>bomber</tag>
+      <tag>1950s</tag>
+      <tag>coldwar</tag>
+      <tag>retractable-gear</tag>
+      <tag>propeller</tag>
+      <tag>piston</tag>
+      <tag>radial</tag>
+      <tag>jet</tag>
+      <tag>multi-engine</tag>
+      <tag>fixed-pitch</tag>
+    </tags>
+
   </sim>
+
 
 </PropertyList>
 
